@@ -117,7 +117,7 @@ if(isset($_POST['submit']))
 
 <body>
     <!-- Header-->
-    <div class="container-fluid">
+    <div class="container-fluid" id="nav">
         <!-- Navigation Bar -->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <a class="navbar-brand" href="#"> <span class="material-icons" style="font-size:36px;"> account_balance
