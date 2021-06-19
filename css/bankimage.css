@@ -1,0 +1,19 @@
+.bankimg {
+  padding: 5px;
+  margin: 0 auto;
+  width: 600px;
+  height: 450px;
+}
+
+.sparksimg {
+  padding-top: 15px;
+  margin: 0 auto;
+  width: 200px;
+  height: 350px;
+}
+
+@media only screen and (max-width: 600px) {
+  .bankimg {
+    display: none;
+  }
+}

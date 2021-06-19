@@ -1,0 +1,16 @@
+body {
+  background: rgb(164, 60, 60);
+  background: linear-gradient(
+    90deg,
+    rgba(164, 60, 60, 0.275) 0%,
+    rgba(188, 164, 164, 0.107) 1%
+  );
+}
+
+.text {
+  color: rgb(151, 34, 34);
+}
+
+hr {
+  color: black;
+}

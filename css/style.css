@@ -1,0 +1,59 @@
+#nav {
+  padding: 0;
+  padding-bottom: 30px;
+}
+
+.navbar .navbar-brand {
+  font-weight: bolder;
+}
+
+.navbar .navbar-nav .nav-item {
+  padding: 5px;
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+  color: rgb(199, 237, 252);
+  font-weight: 600;
+  border-color: #0b1621;
+  /* box-shadow: 0 0 40px 40px #3498db inset, 0 0 0 0 #3498db; */
+  -webkit-transition: all 150ms ease-in-out;
+  transition: all 150ms ease-in-out;
+}
+
+.navbar .navbar-nav .nav-item .nav-link:hover {
+  background: rgb(224, 223, 224);
+  border-radius: 10px;
+  color: black;
+  box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+}
+
+.navbar .navbar-nav .nav-item .dropdown .btn {
+  color: rgb(252, 239, 189);
+  font-weight: 600;
+  margin-top: 2px;
+}
+
+.title {
+  font-family: "Rubik", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: double;
+  color: #0b1621;
+  font-size: 50px;
+  margin-top: 15px;
+}
+
+main {
+  height: 550px;
+}
+
+@font-face {
+  font-family: "FontAwesome";
+  src: url("your/path/fontawesome-webfont.eot?v=3.0.1");
+  src: url("your/path/fontawesome-webfont.eot?#iefix&v=3.0.1")
+      format("embedded-opentype"),
+    url("your/path/fontawesome-webfont.woff?v=3.0.1") format("woff"),
+    url("your/path/fontawesome-webfont.ttf?v=3.0.1") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
