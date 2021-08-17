@@ -1,6 +1,6 @@
 Basic Banking System
 
-A web application used to tranfer virtual money between multiple users and also record the transaction logs of dummy data. Website is responsive and mobile optimized.
+A web application used to transfer virtual money between multiple users and also record the transaction logs of dummy data. Website is responsive and mobile optimized.
 
 Flow :
 
